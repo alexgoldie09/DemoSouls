@@ -1,0 +1,15 @@
+{
+  "WorkspaceID": "dv.ws.74dd8a44-c5fd-4544-95f9-182a20f43230",
+  "RepoID": "dv.repo.009519da-c967-433e-b54a-7efb88239738",
+  "Path": "/Users/alexandergoldberg/Documents/UE5/DemoSouls",
+  "AccountID": "GitHub_151901335",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.8",
+  "Paused": false,
+  "ShouldDownload": false,
+  "RepoName": "DemoSoulRepo",
+  "ReadOnly": false,
+  "DigestMethod": "sha1",
+  "OrganizationTier": "UNKNOWN"
+}
